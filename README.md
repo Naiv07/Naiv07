@@ -2,8 +2,6 @@
 
 **Data Analyst | Python | SQL | Pandas**
 
-BCA Graduate from Presidency College, Bengaluru
-
 ---
 
 ### 🔍 About Me
