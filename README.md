@@ -1,4 +1,4 @@
-## 👋 Introducing Myself
+## 🙋‍♂️ Introducing Myself
 
 Hi there, I'm Naivedh. A college graduate targeting Data Analyst and Data Science roles. Passionate about finding insights in real-world data using Python and SQL.
 
