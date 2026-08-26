@@ -1,4 +1,4 @@
-# Hi, I'm Naivedh 👋
+# Hey there, I'm Naivedh 🙋‍♂️
 
 **Data Analyst | Python | SQL | Pandas**
 
@@ -21,7 +21,7 @@
 ---
 
 ### 📂 Projects
-- [Zomato Bengaluru Restaurant Analysis](link) — EDA on 7000+ restaurants
+- [Zomato Bengaluru Restaurant Analysis]() — EDA on 7000+ restaurants
 
 ---
 
