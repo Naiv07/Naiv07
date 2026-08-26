@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Naivedh 👋
 
-<!--
-**Naiv07/Naiv07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Python | SQL | Pandas**
 
-Here are some ideas to get you started:
+BCA Graduate from Presidency College, Bengaluru
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 About Me
+- 🎯 Targeting Data Analyst / Data Science roles
+- 📊 Passionate about finding insights in real-world data
+- 🌱 Currently learning: Advanced Pandas, Power BI, Statistics
+- 📍 Based in Bengaluru, India
+
+---
+
+### 🛠 Tools & Technologies
+- **Languages:** Python, SQL, R
+- **Libraries:** Pandas, NumPy, Matplotlib
+- **Database:** MySQL, PostgreSQL
+- **Tools:** VS Code, Jupyter, Git
+
+---
+
+### 📂 Projects
+- [Zomato Bengaluru Restaurant Analysis](link) — EDA on 7000+ restaurants
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/naivedh-ekka-28907640a)
+- [GitHub](https://github.com/Naiv07)
