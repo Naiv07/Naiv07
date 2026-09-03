@@ -11,7 +11,7 @@ Hi there, I'm Naivedh. A college graduate targeting Data Analyst and Data Scienc
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
 
-- [Zomato Bengaluru Restaurant Analysis](https://github.com/Naiv07) — EDA on 7000+ restaurants across Bengaluru using Python and Pandas
+- [Zomato Bengaluru Restaurant Analysis](https://github.com/Naiv07/Zomato-Bengaluru-Analysis) — EDA on 7000+ restaurants across Bengaluru using Python and Pandas
 
 ### 🛠️ Tools
 - **Language:** Python, SQL, R
