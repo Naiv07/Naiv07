@@ -17,6 +17,7 @@ Welcome to my portfolio, where I showcase my projects.
 - **Language:** Python, SQL, R
 - **Libraries:** Pandas, NumPy, Matplotlib
 - **Database:** MySQL, PostgreSQL
+- **Power BI** — interactive dashboard with area slicer, cuisine analysis, online ordering comparison
 - **Tools:** MS Excel, VS Code, Jupyter, Git, GitHub
 
 ### 👋 Connect with Me
