@@ -11,7 +11,7 @@ Hi there, I'm Naivedh. A college graduate targeting Data Analyst and Data Scienc
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
 
-- [S&P 500 Stock Analysis](https://github.com/Naiv07/SP500-Stock_Analysis) — SQL + Power BI heavy analysis of 5 years of S&P 500 stock data (619K+ rows), with a star-schema data model and DAX measures
+- [S&P 500 Stock Analysis](https://github.com/Naiv07/SP500-Stock_Analysis) — SQL + Power BI heavy analysis of 5 years of S&P 500 stock data (619K+ rows), with a star-schema data model and DAX measures. [Live demo →](https://sp500-stockanalysis.streamlit.app/)
 - [Zomato Bengaluru Restaurant Analysis](https://github.com/Naiv07/Zomato-Bengaluru-Analysis) — EDA on 7000+ restaurants across Bengaluru using Python and MS Excel
 
 ### 🛠️ Tools
@@ -19,7 +19,7 @@ Welcome to my portfolio, where I showcase my projects.
 - **Libraries:** Pandas, NumPy, Matplotlib
 - **Database:** MySQL, PostgreSQL, SQLite
 - **Power BI** — star schema data modeling, DAX measures, interactive cross-filtered dashboards
-- **Tools:** MS Excel (Power Pivot, Power Query), VS Code, Jupyter, Git, GitHub
+- **Tools:** MS Excel (Power Pivot, Power Query), Streamlit, VS Code, Jupyter, Git, GitHub
 
 ### 👋 Connect with Me
 - [LinkedIn](https://linkedin.com/in/naivedh-ekka-28907640a)
