@@ -3,22 +3,23 @@
 
 Hi there, I'm Naivedh. A college graduate targeting Data Analyst and Data Science roles. Passionate about finding insights in real-world data using Python and SQL.
 
-- Querying and analyzing data using SQL (MySQL, PostgreSQL, SQLite)
+- Querying and analyzing data using SQL (CTEs, window functions, SQLite)
 - Data cleaning, analysis and visualization using Python (Pandas, Matplotlib), MS Excel and Power BI
 - Building end-to-end EDA and BI dashboard projects on real-world datasets
-- Currently learning: Statistics, Advanced Pandas
+- Currently learning: Statistics (hypothesis testing, regression) and time series forecasting
 
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
 
+- [Business Retail Analysis](https://github.com/Naiv07/Business-Retail-Analysis) — Power BI dashboard with DAX time intelligence, plus a root cause analysis of an online retailer's 2x revenue surge (Aug to Nov 2011), built on pandas-cleaned data
 - [S&P 500 Stock Analysis](https://github.com/Naiv07/SP500-Stock_Analysis) — SQL + Power BI heavy analysis of 5 years of S&P 500 stock data (619K+ rows), with a star-schema data model and DAX measures. [Live demo →](https://sp500-stockanalysis.streamlit.app/)
-- [Zomato Bengaluru Restaurant Analysis](https://github.com/Naiv07/Zomato-Bengaluru-Analysis) — EDA on 7000+ restaurants across Bengaluru using Python and MS Excel
+- [Zomato Bengaluru Restaurant Analysis](https://github.com/Naiv07/Zomato-Bengaluru-Analysis) — EDA on 7000+ restaurants across Bengaluru using Python, MS Excel and Power BI
 
 ### 🛠️ Tools
-- **Language:** Python, SQL, R
+- **Language:** Python, SQL
 - **Libraries:** Pandas, NumPy, Matplotlib
-- **Database:** MySQL, PostgreSQL, SQLite
-- **Power BI** — star schema data modeling, DAX measures, interactive cross-filtered dashboards
+- **Database:** SQLite
+- **Power BI** — star schema data modeling, DAX measures, time intelligence, interactive cross-filtered dashboards
 - **Tools:** MS Excel (Power Pivot, Power Query), Streamlit, VS Code, Jupyter, Git, GitHub
 
 ### 👋 Connect with Me
